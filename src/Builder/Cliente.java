@@ -1,5 +1,6 @@
 package Builder;
 
-public class Cliente extends Pedidos {
+public class Cliente {
 
+	
 }
