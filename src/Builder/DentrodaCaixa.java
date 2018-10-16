@@ -11,11 +11,16 @@ public class DentrodaCaixa extends Funcionario{
 		
 		for (Item c : pedidocliente) {
 			if(!c.getLocal()) {
-				p1.adicionarForaDaCaixa(c.getNome());
+				p1.adicionarDentroDaCaixa(c.getNome());
 				
 			}
 		}
 
+	}
+	
+	@Override
+	public void adicionarCaixa(ArrayList<Item> pedidocliente) {
+		
 	}
 
 }
