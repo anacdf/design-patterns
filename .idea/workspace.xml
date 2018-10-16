@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8ff5491-ee56-41e4-9d8a-3ccbad4bfbbc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/factory/Nome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Nomes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/builder2/ContatoInternetBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/builder2/ContatoInternetBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/builder2/ContatoTelefoneBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/builder2/ContatoTelefoneBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/Autores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/NomesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/Internacional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/Nacional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/NomeInvertido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/NomeInvertido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/NomeSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/NomeSimples.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Autores.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/factory/Autores.java">
+      <file leaf-file-name="NomesFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/factory/NomesFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="323">
+              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -37,34 +43,8 @@
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nacional.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/Nacional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Internacional.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory/Internacional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -72,19 +52,19 @@
       <file leaf-file-name="NomeSimples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/NomeSimples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +73,8 @@
       <file leaf-file-name="NomeInvertido.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factory/NomeInvertido.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="e#158#159#0" expanded="true" />
                 <element signature="e#190#191#0" expanded="true" />
@@ -148,14 +128,15 @@
         <option value="$PROJECT_DIR$/src/builder2/ContatoTelefone.java" />
         <option value="$PROJECT_DIR$/src/builder2/Client.java" />
         <option value="$PROJECT_DIR$/src/factory/Nomes.java" />
-        <option value="$PROJECT_DIR$/src/factory/NomeSimples.java" />
-        <option value="$PROJECT_DIR$/src/factory/NomeInvertido.java" />
         <option value="$PROJECT_DIR$/src/factory/Nome.java" />
         <option value="$PROJECT_DIR$/src/factory/Creator.java" />
-        <option value="$PROJECT_DIR$/src/factory/Internacional.java" />
-        <option value="$PROJECT_DIR$/src/factory/Nacional.java" />
-        <option value="$PROJECT_DIR$/src/factory/Client.java" />
         <option value="$PROJECT_DIR$/src/factory/Autores.java" />
+        <option value="$PROJECT_DIR$/src/factory/Nacional.java" />
+        <option value="$PROJECT_DIR$/src/factory/Internacional.java" />
+        <option value="$PROJECT_DIR$/src/factory/NomeSimples.java" />
+        <option value="$PROJECT_DIR$/src/factory/NomeInvertido.java" />
+        <option value="$PROJECT_DIR$/src/factory/Client.java" />
+        <option value="$PROJECT_DIR$/src/factory/NomesFactory.java" />
       </list>
     </option>
   </component>
@@ -227,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.App" />
       <module name="PadroesEX" />
@@ -246,6 +227,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.Client" />
+      <module name="PadroesEX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,9 +292,11 @@
       <item itemvalue="Application.JavaLinearSearch" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.JavaLinearSearch" />
@@ -324,15 +318,15 @@
       <workItem from="1538781847790" duration="8941000" />
       <workItem from="1539477467727" duration="17946000" />
       <workItem from="1539614849221" duration="12949000" />
-      <workItem from="1539650288849" duration="4439000" />
+      <workItem from="1539650288849" duration="7596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45935000" />
+    <option name="totallyTimeSpent" value="49092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -343,10 +337,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" weight="0.07874016" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85871154" visible="true" weight="0.2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -716,10 +710,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/Nacional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/Internacional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/NomeInvertido.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
@@ -737,42 +754,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/NomeSimples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/Internacional.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/Nacional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -783,17 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/factory/NomesFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/Autores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="323">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
         </state>
       </provider>
     </entry>

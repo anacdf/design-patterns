@@ -8,6 +8,10 @@ public class NomeInvertido implements Nome {
     String nome;
     String sobrenome;
 
+    public NomeInvertido(){
+        this.nome = nome;
+        this.sobrenome = sobrenome;
+    }
     @Override
     public void setNome(String nome) {
         this.nome = nome;

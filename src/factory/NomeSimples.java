@@ -8,6 +8,11 @@ public class NomeSimples implements Nome {
     String nome;
     String sobrenome;
 
+    public NomeSimples() {
+        this.nome = nome;
+        this.sobrenome = sobrenome;
+    }
+
     @Override
     public void setNome(String nome) {
         this.nome = nome;
