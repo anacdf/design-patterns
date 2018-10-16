@@ -1,3 +1,4 @@
+package abstractFactory;
 
 public class ConcrectFactoryScreen extends AbstractFactory{
 

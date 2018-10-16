@@ -1,3 +1,4 @@
+package abstractFactory;
 
 public class ConcrectFactoryTxt extends AbstractFactory{
 
