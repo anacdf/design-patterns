@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8ff5491-ee56-41e4-9d8a-3ccbad4bfbbc" name="Default" comment="factory3">
+    <list default="true" id="a8ff5491-ee56-41e4-9d8a-3ccbad4bfbbc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/AtendenteDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Batata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Brinquedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Refri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Sanduiche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/singleton/TesteIncremental$Incremental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/singleton/TesteIncremental$Incremental.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/singleton/TesteIncremental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/singleton/TesteIncremental.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/singleton/TesteIncremental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/TesteIncremental.java" afterDir="false" />
     </list>
@@ -17,17 +22,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TesteIncremental.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/singleton/TesteIncremental.java">
+      <file leaf-file-name="LancheBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="680">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LancheBuilderInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilderInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuncionarioBuilder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtendenteDirector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/AtendenteDirector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sanduiche.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Sanduiche.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="31" />
               <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Batata.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Batata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Refri.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Refri.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Brinquedo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Brinquedo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LancheInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/builder/LancheInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -48,9 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaLinearSearch.java" />
-        <option value="$PROJECT_DIR$/src/builder/LancheInterface.java" />
-        <option value="$PROJECT_DIR$/src/builder/LancheBuilderInterface.java" />
         <option value="$PROJECT_DIR$/src/builder/LancheBuilder.java" />
         <option value="$PROJECT_DIR$/src/builder/LancheDirector.java" />
         <option value="$PROJECT_DIR$/src/builder/Lanche.java" />
@@ -95,6 +177,13 @@
         <option value="$PROJECT_DIR$/src/singleton/Incremental.java" />
         <option value="$PROJECT_DIR$/src/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/singleton/TesteIncremental.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/AtendenteBuilder.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/Hamburguer.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/Sanduiche.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/Batata.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/Refri.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/Brinquedo.java" />
+        <option value="$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java" />
       </list>
     </option>
   </component>
@@ -135,7 +224,7 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory3" type="462c0819:PsiDirectoryNode" />
+              <item name="BuilderNovo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -319,6 +408,7 @@
       <workItem from="1539650288849" duration="8709000" />
       <workItem from="1539702750967" duration="8724000" />
       <workItem from="1539718335242" duration="689000" />
+      <workItem from="1539730809835" duration="2852000" />
     </task>
     <task id="LOCAL-00001" summary="factory2">
       <created>1539707386116</created>
@@ -334,14 +424,22 @@
       <option name="project" value="LOCAL" />
       <updated>1539712108742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="singleton">
+      <created>1539725484739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539725484739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61496000" />
+    <option name="totallyTimeSpent" value="65118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -351,52 +449,35 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.85871154" visible="true" weight="0.42204726" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" visible="true" weight="0.16220473" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4956076" weight="0.33070865" />
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" weight="0.2" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4956076" weight="0.33070865" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14128843" side_tool="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.32913387" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" visible="true" weight="0.32913387" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.32913387" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4956076" weight="0.33070865" />
@@ -405,8 +486,8 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.14128843" side_tool="true" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49926794" weight="0.32913387" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4978038" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -421,7 +502,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="factory2" />
     <MESSAGE value="factory3" />
-    <option name="LAST_COMMIT_MESSAGE" value="factory3" />
+    <MESSAGE value="singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="singleton" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -429,53 +511,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaLinearSearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/HelloWorldTxt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/HelloWorldScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/ConcrectFactoryTxt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/ConcrectFactoryScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/abstractFactory/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/LancheInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -484,27 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilderInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -677,10 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,23 +730,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/singleton/TesteIncremental.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/TesteIncremental.java">
+    <entry file="file://$PROJECT_DIR$/src/builder/LancheInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Refri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Brinquedo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Batata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/Sanduiche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/AtendenteDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/LancheBuilderInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
