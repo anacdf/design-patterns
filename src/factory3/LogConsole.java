@@ -1,4 +1,10 @@
 package factory3;
 
-public class LogConsole {
+import java.util.List;
+
+public class LogConsole implements Log {
+    @Override
+    public void lerLog(List lista) {
+        System.out.println(lista.toString());
+    }
 }

@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8ff5491-ee56-41e4-9d8a-3ccbad4bfbbc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/confidencial.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory2/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory2/Provedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory2/ProvedorConfidencial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory2/ProvedorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory2/ProvedorPublico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory3/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory3/LogArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory3/LogConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory3/LogFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory3/Programa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory2/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory2/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory3/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3/LogArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory3/LogArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3/LogConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory3/LogConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3/LogFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory3/LogFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory3/Programa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,71 +20,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Provedor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory2/Provedor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProvedorConfidencial.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory2/ProvedorConfidencial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProvedorPublico.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory2/ProvedorPublico.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProvedorFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/factory2/ProvedorFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Programa.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/factory2/Programa.java">
+        <entry file="file://$PROJECT_DIR$/src/factory3/Programa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="confidencial.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/confidencial.txt">
+      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory3/Log.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publico">
+      <file leaf-file-name="LogArquivo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory3/LogArquivo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogConsole.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory3/LogConsole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory3/LogFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -142,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/factory/NomeInvertido.java" />
         <option value="$PROJECT_DIR$/src/factory/NomesFactory.java" />
         <option value="$PROJECT_DIR$/src/factory/Client.java" />
-        <option value="$PROJECT_DIR$/src/factory3/Programa.java" />
         <option value="$PROJECT_DIR$/src/factory2/confidencial.txt" />
         <option value="$PROJECT_DIR$/src/factory2/publico" />
         <option value="$PROJECT_DIR$/src/factory2/Provedor.java" />
@@ -152,6 +133,11 @@
         <option value="$PROJECT_DIR$/confidencial.txt" />
         <option value="$PROJECT_DIR$/publico" />
         <option value="$PROJECT_DIR$/src/factory2/Programa.java" />
+        <option value="$PROJECT_DIR$/src/factory3/LogFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory3/LogConsole.java" />
+        <option value="$PROJECT_DIR$/src/factory3/Log.java" />
+        <option value="$PROJECT_DIR$/src/factory3/LogArquivo.java" />
+        <option value="$PROJECT_DIR$/src/factory3/Programa.java" />
       </list>
     </option>
   </component>
@@ -185,6 +171,12 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Programa">
+  <component name="RunManager" selected="Application.Programa (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.App" />
       <module name="PadroesEX" />
@@ -259,6 +251,17 @@
       <option name="MAIN_CLASS_NAME" value="JavaLinearSearch" />
       <module name="PadroesEX" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Programa (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory3.Programa" />
+      <module name="PadroesEX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory2.Programa" />
@@ -317,9 +320,11 @@
       <item itemvalue="Application.App" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Programa" />
+      <item itemvalue="Application.Programa (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programa (1)" />
         <item itemvalue="Application.Programa" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.App" />
@@ -343,12 +348,20 @@
       <workItem from="1539477467727" duration="17946000" />
       <workItem from="1539614849221" duration="12949000" />
       <workItem from="1539650288849" duration="8709000" />
-      <workItem from="1539702750967" duration="2931000" />
+      <workItem from="1539702750967" duration="6767000" />
     </task>
+    <task id="LOCAL-00001" summary="factory2">
+      <created>1539707386116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539707386116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53136000" />
+    <option name="totallyTimeSpent" value="56972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,16 +375,16 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" visible="true" weight="0.2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85871154" weight="0.2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20790629" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4956076" weight="0.33070865" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4956076" visible="true" weight="0.33070865" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -412,19 +425,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="factory2" />
+    <option name="LAST_COMMIT_MESSAGE" value="factory2" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/abstractFactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaLinearSearch.java" />
     <entry file="file://$PROJECT_DIR$/src/abstractFactory/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -621,52 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory3/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory3/LogArquivo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory3/LogConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory3/Programa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory3/LogFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/factory/NomesFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory2/ProvedorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -697,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory2/Provedor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/confidencial.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -718,10 +679,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory2/Provedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory3/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory3/LogArquivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory2/ProvedorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/factory2/Programa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory3/LogConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory3/LogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory3/Programa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
