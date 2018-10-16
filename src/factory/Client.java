@@ -11,5 +11,5 @@ public class Client {
 
         System.out.println(nome.getNomeCompleto() + " ou "+ sobrenome.getNomeCompleto());
     }
-    
+
 }
