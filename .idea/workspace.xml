@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8ff5491-ee56-41e4-9d8a-3ccbad4bfbbc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/AtendenteDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Batata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Brinquedo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Refri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuilderNovo/Sanduiche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/singleton/TesteIncremental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/singleton/TesteIncremental.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/TesteIncremental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/TesteIncremental.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +36,26 @@
       <file leaf-file-name="FuncionarioBuilder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="413">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -408,7 +419,7 @@
       <workItem from="1539650288849" duration="8709000" />
       <workItem from="1539702750967" duration="8724000" />
       <workItem from="1539718335242" duration="689000" />
-      <workItem from="1539730809835" duration="2852000" />
+      <workItem from="1539730809835" duration="3309000" />
     </task>
     <task id="LOCAL-00001" summary="factory2">
       <created>1539707386116</created>
@@ -431,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539725484739</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="novo-builder">
+      <created>1539734205933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539734205933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65118000" />
+    <option name="totallyTimeSpent" value="65575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -503,7 +521,8 @@
     <MESSAGE value="factory2" />
     <MESSAGE value="factory3" />
     <MESSAGE value="singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="singleton" />
+    <MESSAGE value="novo-builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo-builder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -823,8 +842,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BuilderNovo/FuncionarioBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="413">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
