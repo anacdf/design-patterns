@@ -1,6 +1,6 @@
 package BuilderNovo;
 
-public class Sanduiche {
+public class Sanduiche{
     private String tipo;
 
     public Sanduiche(String tipo) {
