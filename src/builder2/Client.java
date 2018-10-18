@@ -5,10 +5,10 @@ public class Client {
     public static void main(String[] args) {
         //Contato Completo
         Pessoa pessoa = new Pessoa();
-        pessoa.setNome("Maria");
-        pessoa.setEndereco("Rua X");
-        pessoa.setTelefone("3456-7890");
-        pessoa.setEmail("maria@email.com");
+        pessoa.setNome("Eduarda");
+        pessoa.setEndereco("Ipiranga 7200");
+        pessoa.setTelefone("3334-5740");
+        pessoa.setEmail("eduardad1@gmail.com");
 
         ContatoBuilder builder = new ContatoCompletoBuilder();
 
@@ -18,8 +18,8 @@ public class Client {
 
         //Contato Internet
         Pessoa pessoaInternet = new Pessoa();
-        pessoaInternet.setNome("Maria");
-        pessoaInternet.setEmail("maria@email.com");
+        pessoaInternet.setNome("Eduarda");
+        pessoaInternet.setEmail("eduardad1@gmail.com");
 
         ContatoBuilder builderInternet = new ContatoInternetBuilder();
 
@@ -29,8 +29,8 @@ public class Client {
 
         //Contato Telefone
         Pessoa pessoaTel = new Pessoa();
-        pessoaTel.setNome("Maria");
-        pessoaTel.setTelefone("3456-7890");
+        pessoaTel.setNome("Eduarda");
+        pessoaTel.setTelefone("3334-5740");
 
         ContatoBuilder builderTel = new ContatoTelefoneBuilder();
 

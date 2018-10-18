@@ -1,9 +1,5 @@
 package factory;
 
-/*
-Concrete Products are the different implementations of the Product interface.
-Concrete Creators will create and return instances of these classes.
- */
 public class NomeSimples implements Nome {
     String nome;
     String sobrenome;
